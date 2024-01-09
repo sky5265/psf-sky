@@ -1,0 +1,7 @@
+#image	target	filter	mjd	PSFmag	err	Ap_opt	err	Ap_big	err	ap_limit	ZP	err	template	comments
+../0166.AT_2021lwz_BiasFlat2021.0522.fits	AT_2021lwz	g	59357.16	17.52	0.03	17.67	0.06	17.68	0.06	20.48	28.35	0.02		
+../0167.AT_2021lwz_BiasFlat2021.0522.fits	AT_2021lwz	g	59357.17	17.54	0.03	17.72	0.10	17.74	0.11	20.46	28.38	0.02		
+../0168.AT_2021lwz_BiasFlat2021.0522.fits	AT_2021lwz	r	59357.17	17.82	0.04	17.84	0.09	17.87	0.18	21.06	28.47	0.03		
+../0169.AT_2021lwz_BiasFlat2021.0522.fits	AT_2021lwz	r	59357.17	17.80	0.03	17.82	0.09	17.83	0.07	21.03	28.44	0.03		
+../0170.AT_2021lwz_BiasFlat2021.0522.fits	AT_2021lwz	i	59357.18	18.11	0.07	18.06	0.67	18.10	0.50	20.73	28.08	0.07		
+../0171.AT_2021lwz_BiasFlat2021.0522.fits														FAILED

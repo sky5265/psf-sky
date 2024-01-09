@@ -1,0 +1,2 @@
+#image	target	filter	mjd	PSFmag	err	Ap_opt	err	Ap_big	err	ap_limit	ZP	err	template	comments
+../0166.AT_2021lwz_BiasFlat2021.0522.fits														FAILED
